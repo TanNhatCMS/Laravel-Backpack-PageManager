@@ -19,7 +19,7 @@ class PageManagerServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    public $routeFilePath = '/routes/backpack/pagemanager.php';
+    public $routeFilePath = '/routes/pagemanager.php';
 
     /**
      * Perform post-registration booting of services.
