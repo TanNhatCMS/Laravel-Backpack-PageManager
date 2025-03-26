@@ -46,6 +46,9 @@
             "Backpack\\PageManager\\": "tests"
         }
     },
+    "replace": {
+        "backpack/pagemanager": "^3"
+    },
     "scripts": {
         "test": "vendor/bin/phpunit --testdox"
     },
